@@ -1,0 +1,40 @@
+a.shortcut {
+    border-radius: 20px;
+    background: #C62828;
+}
+
+nav.navbar {
+    padding-right: 0px;
+}
+
+div.barraMenu {
+    max-width: 235px;
+    padding: 0px 0px 0px 10px;
+    margin: 10px;
+}
+img.imgMenu {
+    width: 45%;
+    height: 20%;
+}
+
+.btnMenu {
+    margin: 10px;
+    max-width: 200px;
+    font-size: small;
+    text-align: left;
+}
+.noBull
+{
+    list-style: none;
+    list-style-position: inside;
+    padding-inline-start: 0px;
+}
+
+li.listMenu
+{
+    margin: 10px;
+    max-width: 200px;
+}
+a.btn {
+    font-size: 14px !important;
+}
